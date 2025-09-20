@@ -16,7 +16,7 @@
 
 ---
 ## Project Structure :
-![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/1.png)  
+![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/Structure.png)  
 
 ## 🖥️ صور من التطبيق
 **1️⃣ : الشاشة الأولي**
