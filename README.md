@@ -17,6 +17,7 @@
 ---
 
 ## 🖥️ صور من التطبيق
+**الشاشة الأولي**
 ![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/1.png)  
 ![Details Screen](screenshots/details.png)
 
