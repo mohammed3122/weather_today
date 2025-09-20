@@ -26,22 +26,28 @@
 ![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/2.png)
 
 **3️⃣ : الشاشة الثالثة**
+
 ![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/3.png)
 
 **4️⃣ : الشاشة الرابعة**
+
 ![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/4.png)
 
 **5️⃣ : الشاشة الخامسة**
+
 ![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/5.png)
 
 **6️⃣ : الشاشة السادسة**
+
 ![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/6.png)
 
 **7️⃣ : الشاشة السابعة**
+
 ![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/7.png)
 
 **8️⃣ : الشاشة الثامنة**
-![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/8س.png)
+
+![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/8.png)
 
 ## ⚙️ المزايا
 - واجهة سهلة الاستخدام.
