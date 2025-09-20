@@ -45,9 +45,6 @@
 
 ![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/7.png)
 
-**8️⃣ : الشاشة الثامنة**
-
-![Home Screen](https://github.com/mohammed3122/weather_today/blob/main/screenshots/8.png)
 
 ## ⚙️ المزايا
 - واجهة سهلة الاستخدام.
